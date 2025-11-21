@@ -89,7 +89,7 @@ The app will launch automatically in your browser.
 
 ![Python_Interactive_Dashboard_Preview](https://github.com/ValiShaik03/python-interactive-dashboard/blob/d6f8a4742f8557eceab29ed243ff2f286886f06c/output_demo/output.png)
 
-👨‍💻 Author
+## **👨‍💻 Author**
 
 Shaik Mahaboob Vali
 
