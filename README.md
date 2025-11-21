@@ -87,7 +87,7 @@ The app will launch automatically in your browser.
 
 ## **Output Demo:**
 
-![Python_Interactive_Dashboard_Preview](https://github.com/ValiShaik03/smart_crop_recommendation_system/blob/51ca2aa7419afbb6b2a9985a94d4401cb5f876ec/preview/preview1.png)
+![Python_Interactive_Dashboard_Preview](https://github.com/ValiShaik03/python-interactive-dashboard/blob/d6f8a4742f8557eceab29ed243ff2f286886f06c/output_demo/output.png)
 
 👨‍💻 Author
 
